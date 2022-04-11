@@ -44,13 +44,13 @@ namespace StorybrewScripts
         public int endY = 1;
 
         [Configurable]
-        public double startRed = 255;
+        public double startRed = 1;
 
         [Configurable]
-        public double startGreen = 255;
+        public double startGreen = 1;
 
         [Configurable]
-        public double startBlue = 255;
+        public double startBlue = 1;
 
         public override void Generate()
         {
